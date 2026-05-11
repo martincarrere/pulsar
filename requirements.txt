@@ -12,6 +12,8 @@ pyjwt
 requests
 tuspy
 google-cloud-batch
+pykube-ng
+requests-toolbelt
 
 ## Uncomment if using DRMAA queue manager.
 #drmaa
